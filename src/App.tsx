@@ -317,7 +317,7 @@ export default function PayrollServicesWebsite() {
   const [acceptedQuote, setAcceptedQuote] = React.useState(false);
   const [acceptedTerms, setAcceptedTerms] = React.useState(false);
 
-  const supportPhoneDisplay = "+31 00 000 0000";
+  const supportPhoneDisplay = "020 233 86 39";
   const supportPhoneHref = "tel:+31000000000";
   const teamsBookingUrl = "https://calendly.com/hello-fidial/30min";
   const intakeMailbox = "hello@strooq.nl";
@@ -1130,7 +1130,7 @@ export default function PayrollServicesWebsite() {
                 <p>Louise Marie Loeberplantsoen 4, 1062 DD Amsterdam</p>
                 <p>hello@strooq.nl</p>
                 <p>privacy@strooq.nl</p>
-                <p>+31 00 000 0000</p>
+                <p>020 233 86 39</p>
               </div>
             </div>
             <div>
