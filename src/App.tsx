@@ -319,7 +319,7 @@ export default function PayrollServicesWebsite() {
 
   const supportPhoneDisplay = "+31 00 000 0000";
   const supportPhoneHref = "tel:+31000000000";
-  const teamsBookingUrl = "";
+  const teamsBookingUrl = "https://calendly.com/hello-fidial/30min";
   const intakeMailbox = "hello@strooq.nl";
   const loginUrl = "https://www.strooq.nl";
   const contactApiUrl = import.meta.env.VITE_CONTACT_API_URL || "/api/contact";
